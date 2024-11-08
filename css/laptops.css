@@ -14,7 +14,7 @@
 
     /* section2 */
     .section2 {
-        padding: 64px;
+        padding: 64px 0 64px 64px;
     }
 
     .section2_cards_section_article {
@@ -52,7 +52,7 @@
 
     /* section2 */
     .section2 {
-        padding: 24px;
+        padding: 24px 0 24px 24px;
     }
 
     .section2_cards_section_article {

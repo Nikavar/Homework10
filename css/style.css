@@ -82,7 +82,7 @@ header {
 
 /* section2 */
 .section2 {
-    padding: 94px 102px;
+    padding: 94px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -151,11 +151,10 @@ header {
     color: #DEE2EB;
 }
 
-.section2_cards_section_article_subarticle_price_article_img {
+.section2_cards_section_article_subarticle_price_article_button {
     width: 27px;
     height: 27px;
     border: 0;
-    gap: 0px;
     color: #C46A2B;
     background-image: url("../images/card-bag.svg");
     background-position: center;
@@ -180,6 +179,7 @@ footer {
     justify-content: space-between;
     flex-direction: column;
     row-gap: 17px;
+    text-wrap: nowrap;
 }
 
 .footer_section_nav {
