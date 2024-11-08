@@ -1,0 +1,50 @@
+@media(max-width: 480px) {
+
+    /* header */
+    header {
+        padding: 18px 8px;
+    }
+
+    /* section1 */
+    .section1 {
+        padding-top: 60px;
+        height: 320px;
+    }
+
+    .section1_title {
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 40px;
+        letter-spacing: 0.10000000149011612px;
+    }
+
+    .arrow_right_img {
+        width: 30px;
+        height: 30px;
+    }
+
+    /* section2 */
+    .section2 {
+        padding-block: 24px 0 24px 8px;
+    }
+
+    .section2_title {
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 700;
+        margin-bottom: 24px;
+    }
+
+    .section2_cards_section_article {
+        flex: 1 0 260px;
+    }
+
+    
+    /* footer */
+    footer {
+        padding-inline: 196px;
+        flex-wrap: wrap;
+        row-gap: 32px;
+    }
+}
