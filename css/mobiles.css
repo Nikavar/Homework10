@@ -1,4 +1,4 @@
-@media(max-width: 480px) {
+@media(max-width: 481px) {
 
     /* header */
     header {
@@ -36,11 +36,10 @@
         margin-bottom: 24px;
     }
 
-    .section2_cards_section_article {
-        flex: 1 0 260px;
+    .section2_cards_section_article{
+        flex: 1 0 244px;
     }
-
-    
+  
     /* footer */
     footer {
         padding-inline: 196px;
